@@ -29,7 +29,7 @@ def add_report_type():
 # Edit a report type
 @app.route('/reports/build/edit/<id>')
 def edit_report_type(id):
-	return render_template('reports/add.html')
+	return render_template('reports/edit.html')
 
 # Delete a report type
 @app.route('/reports/build/delete/<id>')
