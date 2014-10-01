@@ -1,2 +1,2 @@
 #Recount#
-## A Reporting Platform##
+Recount is a platform for generating reports
